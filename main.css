@@ -1,0 +1,285 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header a {
+    position: absolute;
+    margin-top: -6px;
+    margin-left: 245px;
+}
+
+.contayner {
+    width: 1600px;
+    height: 3000px;
+    /* border: 2px solid black; */
+    margin: 0 auto;
+}
+
+.btn {
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+.bit {
+    background: #D23166;
+    width: 165px;
+    position: absolute;
+    height: 49px;
+    top: 28px;
+    left: 1505px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.bit:hover {
+    background-color: aliceblue;
+    color: black;
+    transition: 2s;
+}
+
+.btn__link {
+    display: flex;
+    gap: 100px;
+    margin-left: 730px;
+    margin-top: 25px;
+}
+
+.lio:hover {
+    color: red;
+    transition: 0.4s;
+
+}
+
+.p {
+    width: 172px;
+    height: 16px;
+    top: 285px;
+    left: 254px;
+    font-size: 14PX;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.h1 {
+    font-size: 57.33px;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: Fredoka One;
+    font-size: 57px;
+    font-weight: 400;
+    line-height: 69px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Roboto;
+    font-size: 57px;
+    font-weight: 500;
+    line-height: 69px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Fredoka One;
+    font-size: 57px;
+    font-weight: 400;
+    line-height: 69px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Roboto;
+    font-size: 57px;
+    font-weight: 500;
+    line-height: 69px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.p1 {
+    font-size: 18px;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.plar {
+    margin-left: 245px;
+    margin-top: 280px;
+
+
+
+}
+
+.str {
+    color: #D23166;
+}
+
+.bt {
+    width: 165px;
+    height: 49px;
+    margin-top: 30px;
+    margin-left: 5px;
+    border-radius: 5px;
+    background: #D23166;
+    color: aliceblue;
+
+}
+
+.bt:hover {
+    background-color: aliceblue;
+    color: black;
+    transition: 0.9s;
+}
+
+.img {
+    margin-left: 500px;
+    margin-top: -500px;
+}
+
+.bush {
+    width: 1600px;
+    height: 862px;
+    opacity: 0.3px;
+    background: #F2CEDA;
+    margin-top: -10px;
+
+}
+.urt{
+    display: flex;
+    gap: 50px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.bbbbb {
+    width: 250px;
+    height: 200px;
+    top: 962px;
+    left: 252px;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.05) 2px 3px 4px 1px;
+    /* background-color: #F2CEDA */
+
+}
+@media only screen and (max-width:1360px) {
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    header a {
+        position: absolute;
+        margin-top: -6px;
+        margin-left: 245px;
+    }
+    
+    .contayner {
+        width: 1600px;
+        height: 3000px;
+        /* border: 2px solid black; */
+        margin: 0 auto;
+    }
+    
+    .btn {
+        display: flex;
+        gap: 50px;
+        margin-top: 20px;
+    }
+    
+    .bit {
+        background: #D23166;
+        width: 165px;
+        height: 49px;
+        top: 28px;
+        left: 1205px;
+        border-radius: 5px;
+        color: aliceblue;
+    }
+    
+    
+    
+    .btn__link {
+        display: flex;
+        gap: 100px;
+        margin-left: 600px;
+        margin-top: 25px;
+    }
+    
+    
+    
+   
+   
+}
+@media only screen and (max-width:560px) {
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    header a {
+        position: absolute;
+        margin-top: -6px;
+        margin-left: 145px;
+    }
+    
+    .contayner {
+        width: 1600px;
+        height: 3000px;
+        /* border: 2px solid black; */
+        margin: 0 auto;
+    }
+    
+    .btn {
+        display: flex;
+        gap: 50px;
+        margin-top: 20px;
+    }
+    
+    .bit {
+        background: #D23166;
+        width: 165px;
+        height: 49px;
+        top: 28px;
+        left: 1005px;
+        border-radius: 5px;
+        color: aliceblue;
+    }
+    
+    
+    
+    .btn__link {
+        display: flex;
+        gap: 100px;
+        margin-left: 450px;
+        margin-top: 25px;
+    }
+    
+    .plar {
+        margin-left: 35px;
+        margin-top: 280px;
+    
+    
+    }
+    
+    
+   
+   
+}
+@media only screen and (max-width:340px) {
+    .img {
+        margin-left: -100px;
+        margin-top: -800px;
+        position: absolute;
+    }
+    .plar {
+        margin-left: 35px;
+        margin-top: 780px;
+    
+    
+    }
+    
+    
+}
